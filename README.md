@@ -1,6 +1,6 @@
 # 收集分享好玩，有趣的文章
 
-<img src="https://w.wallhaven.cc/full/96/wallhaven-96pzzd.png" alt="banner" width="600px">
+<img src="https://w.wallhaven.cc/full/kw/wallhaven-kw6ro1.png" alt="banner" width="600px">
 
 > 每天收集和分享一篇文章
 
@@ -10,3 +10,11 @@
 <img src="https://greatweber.github.io/funToStudy/material/2020-04/2020-04-24.png" alt="banner" width="600px">
 
 [一个好的组件应该是什么样的？](https://mp.weixin.qq.com/s/P3pwzn1pmoGzjnS8nVyMgg)
+
+## 2020-04-25
+没看过`ECMAScript`的规范文档，好意思说自己精通js？当遇到很多奇葩的问题(特别是面试题)时，最好的方法就是去看ES的规范文档。但是不是我不想看，而是看不懂啊(-.-)。比如下面的图片：
+
+<img src="https://greatweber.github.io/funToStudy/material/2020-04/2020-04-25.png" alt="banner" width="600px">
+
+看不懂没关系，看看v8的团队是怎么给我们解释的
+[Understanding the ECMAScript spec, part 1](https://v8.dev/blog/understanding-ecmascript-part-1)
