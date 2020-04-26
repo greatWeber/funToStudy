@@ -18,3 +18,8 @@
 
 看不懂没关系，看看v8的团队是怎么给我们解释的
 [Understanding the ECMAScript spec, part 1](https://v8.dev/blog/understanding-ecmascript-part-1)
+
+## 2020-04-26
+哎，周日还要上班(补五一的班),心累，今天就分享一些趣图来放松一下心情
+
+[那些令程序员泪流满面的瞬间](https://mp.weixin.qq.com/s/ucea_lmi2Gf5NAjy6l4A8g)
