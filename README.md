@@ -4,6 +4,12 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-04-29
+你有考虑过使用js框架带来的成本吗？目前流行的框架真的给你节约了成本？看完这篇文章，或许你会重新考虑一下这个问题 
+
+<img src="https://greatweber.github.io/funToStudy/material/2020-04/2020-04-29.png" alt="banner" width="600px">
+
+[The Cost of Javascript Frameworks](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/)
 ## 2020-04-28
 你真的会四舍五入保留n位小数点吗，还在用`toFixed`？还不知道`toFixed`的缺陷？可以看看本人写的这一篇文章，看完赶紧收藏 😁
 
