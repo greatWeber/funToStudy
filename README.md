@@ -4,6 +4,14 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-04-30
+`nodejs 14`版本发布了，来看看新增了哪些特征吧
+
+<img src="https://greatweber.github.io/funToStudy/material/2020-04/2020-04-30.png" alt="banner" width="600px">
+
+[Node.js version 14 available now](https://medium.com/@nodejs/node-js-version-14-available-now-8170d384567e)
+
+
 ## 2020-04-29
 你有考虑过使用js框架带来的成本吗？目前流行的框架真的给你节约了成本？看完这篇文章，或许你会重新考虑一下这个问题 
 
