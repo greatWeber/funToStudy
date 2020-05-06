@@ -4,6 +4,11 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-05-06
+如果你是某开源库的作者，在更新版本前一定要认真进行全面测试，不要因为库太小而忽略，否则有可能发生一些不好的影响。比如下面这篇文章中的`is-promise`库的作者就犯了这种错误。
+
+[is-promise post mortem](https://medium.com/javascript-in-plain-english/is-promise-post-mortem-cab807f18dcc)
+
 ## 2020-04-30
 `nodejs 14`版本发布了，来看看新增了哪些特征吧
 
