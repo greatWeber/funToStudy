@@ -4,6 +4,12 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-05-07
+Canonical发布了最新的Ubuntu版本(20.04)，作为一个LTS，它没有新的功能，但是带来了许多可用性、稳定性和性能改进，以适合个人和企业。
+
+[Ubuntu 20.04 LTS (Focal Fossa): Enterprise-Ready ](https://dzone.com/articles/-ubuntu-2004-lts-focal-fossa-enterprise-ready)
+
+
 ## 2020-05-06
 如果你是某开源库的作者，在更新版本前一定要认真进行全面测试，不要因为库太小而忽略，否则有可能发生一些不好的影响。比如下面这篇文章中的`is-promise`库的作者就犯了这种错误。
 
