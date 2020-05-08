@@ -4,6 +4,11 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-05-08
+在这篇文章中，我们将分享一些降低软件测试成本的方法，我们已经在Abstracta进行了第一手的测试，并取得了很好的结果。
+
+[How Can You Optimize the Cost of Software Testing? ](https://dzone.com/articles/how-can-you-optimize-the-cost-of-software-testing)
+
 ## 2020-05-07
 Canonical发布了最新的Ubuntu版本(20.04)，作为一个LTS，它没有新的功能，但是带来了许多可用性、稳定性和性能改进，以适合个人和企业。
 
