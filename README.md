@@ -4,6 +4,11 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-05-11
+120个javascript工具函数，而且都是只有一行代码，建议收藏 😃
+
+[120 favorite JavaScript utilities in single line of code! No more!](https://1loc.dev/)
+
 ## 2020-05-09
 
 [开源创新故事：Priya Nagpurkar 对云计算无缝体验的追求](https://developer.ibm.com/cn/blog/2019/open-innovation-stories-priya-nagpurkars-quest-to-make-cloud-seamless/)
