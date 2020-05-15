@@ -4,6 +4,11 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-05-15
+在开始这个项目之前，我从来没有听说过Chip-8，所以我想大多数人也没有听说过。Chip-8是一种非常简单的解释性编程语言，它是20世纪70年代业余计算爱好者开发的。人们编写了模仿当时流行游戏的简单Chip-8程序，如乒乓球、俄罗斯方块、太空入侵者，可能还有其他被遗忘的独特游戏。
+
+[Writing an Emulator in JavaScript (and Interfacing with Multiple UIs)](https://www.taniarascia.com/writing-an-emulator-in-javascript-chip8/)
+
 ## 2020-05-14
 嗯，虽然现在mvvm框架很流行，但是还是有许多旧的项目在用jquery的，而不久前，jquery发布了`3.5`的版本。有兴趣的看一下更新了什么 👇
 
