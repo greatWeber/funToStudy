@@ -4,6 +4,11 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-05-18
+`权威指南` 出`第7版`啦，哇，还不赶紧下单，(我就不了，第六版都还没看完,关键是我英文不好 😭) 
+
+[JavaScript Features To Forget](https://davidflanagan.com/2020/05/12/javascript-to-forget.html)
+
 ## 2020-05-16
 Deno1.0 发布了，到底它能不能替代nodejs呢，嗯...
 
