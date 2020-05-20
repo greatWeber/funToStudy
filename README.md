@@ -4,6 +4,16 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-05-20
+
+<img src="https://greatweber.github.io/funToStudy/material/2020-05/2020-05-20.jpg" alt="banner" width="600px">
+
+520，单身狗的我只能好好加班写代码。😭
+你有没有想过`console.log`底层是怎么实现的？
+下面的文章以V8为例介绍了console.log的实现原理 👇
+
+[Standard IO Under the Hood](https://keleshev.com/standard-io-under-the-hood)
+
 ## 2020-05-19
 如何给Node.js应用添加健康检测，看下文 👇
 
