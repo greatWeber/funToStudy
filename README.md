@@ -4,6 +4,10 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-05-21
+angularJS和ReactJs框架，哪个更适合开发loT产品应用呢(没有vue，看来国外vue不太流行) 👇 
+[ReactJS or AngularJS: Which Is Best for IoT?](https://dzone.com/articles/reactjs-or-angularjs-right-choice-for-iot-product)
+
 ## 2020-05-20
 
 <img src="https://greatweber.github.io/funToStudy/material/2020-05/2020-05-20.jpg" alt="banner" width="600px">
