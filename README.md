@@ -4,6 +4,10 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-05-22
+现在`V8`引擎可以在`WebAssembly`中使用`4GB`的内存啦 🎉
+[Up to 4GB of memory in WebAssembly](https://v8.dev/blog/4gb-wasm-memory)
+
 ## 2020-05-21
 angularJS和ReactJs框架，哪个更适合开发loT产品应用呢(没有vue，看来国外vue不太流行) 👇 
 [ReactJS or AngularJS: Which Is Best for IoT?](https://dzone.com/articles/reactjs-or-angularjs-right-choice-for-iot-product)
