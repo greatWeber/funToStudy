@@ -3,6 +3,10 @@
 <img src="https://w.wallhaven.cc/full/kw/wallhaven-kw6ro1.png" alt="banner" width="600px">
 
 > 每天收集和分享一篇文章 🍻
+## 2020-05-25
+，随着静态web应用越来越多，微软的服务器专门定制了对静态web应用的托管服务，快来看看呗👇 
+
+[Introducing App Service Static Web Apps ](https://techcommunity.microsoft.com/t5/azure-app-service/introducing-app-service-static-web-apps/ba-p/1394451)
 
 ## 2020-05-23
 `WebGL`指南, 想不想学webgl啊，想就看这篇文章入门呗 👇 
