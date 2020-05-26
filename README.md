@@ -3,8 +3,13 @@
 <img src="https://w.wallhaven.cc/full/kw/wallhaven-kw6ro1.png" alt="banner" width="600px">
 
 > 每天收集和分享一篇文章 🍻
+
+## 2020-05-26
+现在`webpack`是前端开发工具的标配了，但你了解过webpack内部的流程和原理吗。下面这篇文章可以帮你入门👇 
+[webpack原理](https://juejin.im/entry/5b0e3eba5188251534379615)
+
 ## 2020-05-25
-，随着静态web应用越来越多，微软的服务器专门定制了对静态web应用的托管服务，快来看看呗👇 
+随着静态web应用越来越多，微软的服务器专门定制了对静态web应用的托管服务，快来看看呗👇 
 
 [Introducing App Service Static Web Apps ](https://techcommunity.microsoft.com/t5/azure-app-service/introducing-app-service-static-web-apps/ba-p/1394451)
 
