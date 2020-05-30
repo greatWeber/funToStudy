@@ -4,6 +4,14 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-05-30
+当你实现某个诸如图片懒加载的功能，可能需要实时获取计算元素的位置。我猜你可能会使用onscroll+getBoundingClientRect来实现。但其实还有更简单的api，就是`IntersectionObserver`👇
+[IntersectionObserver API 使用教程](http://www.ruanyifeng.com/blog/2016/11/intersectionobserver_api.html)
+
+## 2020-05-29
+重新学习一下js的`event loop`吧，说不定有新的收获！👇
+[深入解析你不知道的 EventLoop 和浏览器渲染、帧动画、空闲回调](https://juejin.im/post/5ec73026f265da76da29cb25)
+
 ## 2020-05-28
 前端性能优化，已经是老生常谈的话题了，下面文章中，阿里给出了一个新的优化思路：边缘流式渲染方案（ESR）👇
 [前端性能优化：当页面渲染遇上边缘计算 ](https://mp.weixin.qq.com/s/Ez_GjA-eEGyE5izq6VKONA)
