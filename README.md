@@ -4,6 +4,11 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-06-01
+随着 ES Module 被越来越多的浏览器支持，webpack在不久的未来要被替代了。那么ESM 到底有那些优势呢，从下文介绍的`Snowpack`可以了解到。（ps:相似的还有vue3.0配套的vite）
+
+[Snowpack 2.0](https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/)
+
 ## 2020-05-30
 当你实现某个诸如图片懒加载的功能，可能需要实时获取计算元素的位置。我猜你可能会使用onscroll+getBoundingClientRect来实现。但其实还有更简单的api，就是`IntersectionObserver`👇
 [IntersectionObserver API 使用教程](http://www.ruanyifeng.com/blog/2016/11/intersectionobserver_api.html)
