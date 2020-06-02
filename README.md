@@ -4,6 +4,11 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-06-02
+我们都知道，普通对象和数组就算里面的值相等(不指向同一个地址)，它们也不会相等，因为它们不是同一个引用地址，但是ES 最新提议了两个特征`records and tuples`,将会改变这一现状 👇
+
+[A first look at records and tuples in JavaScript](https://2ality.com/2020/05/records-tuples-first-look.html)
+
 ## 2020-06-01
 随着 ES Module 被越来越多的浏览器支持，webpack在不久的未来要被替代了。那么ESM 到底有那些优势呢，从下文介绍的`Snowpack`可以了解到。（ps:相似的还有vue3.0配套的vite）
 
