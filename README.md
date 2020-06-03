@@ -4,6 +4,11 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-06-03
+听说过ES3,ES5,ES6,怎么就没有ES4呢，看完下面的文章，你就知道为什么当年没有发布ES4了，新增了太多的特性，饼画大了，哈哈 👇
+
+[ECMAScript 4: The missing version](https://evertpot.com/ecmascript-4-the-missing-version/)
+
 ## 2020-06-02
 我们都知道，普通对象和数组就算里面的值相等(不指向同一个地址)，它们也不会相等，因为它们不是同一个引用地址，但是ES 最新提议了两个特征`records and tuples`,将会改变这一现状 👇
 
