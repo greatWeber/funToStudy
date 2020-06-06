@@ -4,6 +4,21 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-06-06
+css3渐变有了个新属性(conic gradients) 圆锥渐变, 一起来看看吧  👇
+
+[Background Patterns, Simplified by Conic Gradients ](https://css-tricks.com/background-patterns-simplified-by-conic-gradients/?utm_source=CSS-Weekly&utm_campaign=Issue-413&utm_medium=web)
+
+
+## 2020-06-05
+下面这篇文章对浏览器的宏任务(tasks),微任务(microtasks),事件队列(queues)讲解的比较好，建议看看 👇
+[Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+
+## 2020-06-04
+下面的10道js问题，看看你是否都能答对 👇
+
+[10 JavaScript Quiz Questions and Answers to Sharpen Your Skills](https://typeofnan.dev/10-javascript-quiz-questions-and-answers/)
+
 ## 2020-06-03
 听说过ES3,ES5,ES6,怎么就没有ES4呢，看完下面的文章，你就知道为什么当年没有发布ES4了，新增了太多的特性，饼画大了，哈哈 👇
 
