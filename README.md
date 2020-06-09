@@ -4,6 +4,11 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-06-09
+下文主要讲解在 Git 仓库中如何管理大的二进制文件，详细介绍了什么是 Git LFS，Git LFS 是如何工作的，以及如何使用 Git LFS。 👇
+
+[如何存储 Git 大文件？](https://mp.weixin.qq.com/s/yoSeUTy13LoKyS1UFKaUbA)
+
 ## 2020-06-08
 相比以前，互联网的速度快了许多，但是有趣的是，网站的速度并没有增快多少  👇
 [The Need for Speed, 23 Years Later](https://www.nngroup.com/articles/the-need-for-speed/)
