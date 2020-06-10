@@ -4,6 +4,11 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-06-10
+Web 应用在实际体验上和 Native 应用仍然存在非常明显的差距，那么如何低成本地把一个现有的网站改造成类 Native 的体验呢？下文分享一种让网站低成本渐进式实现 Native 化体验的方式——同屏渲染。 👇
+
+[Web 端如何低成本打造 Native 体验？](https://mp.weixin.qq.com/s/Gt4xzTfzMfVWvHAZZm5X_w)
+
 ## 2020-06-09
 下文主要讲解在 Git 仓库中如何管理大的二进制文件，详细介绍了什么是 Git LFS，Git LFS 是如何工作的，以及如何使用 Git LFS。 👇
 
