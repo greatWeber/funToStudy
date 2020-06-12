@@ -4,6 +4,11 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-06-12
+现在 safari和Firefox(version 78)都支持伪类`:is()`和`:where()`了，快来看看他们都有什么特别的地方吧 👇
+
+[CSS :is() and :where() are coming to browsers](https://webplatform.news/issues/2020-06-04)
+
 ## 2020-06-11
 来来来，看看阿里大厂是如何处理对无障碍的支持，虽然我们大多数开发者都没有意识到对无障碍的支持，但是重视无障碍，重视公益，需要从我们开发者做起！
 
