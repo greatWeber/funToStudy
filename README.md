@@ -4,6 +4,11 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-06-13
+大多数开发人员常常希望自己的工作效率高，但他们没有意识到，如果他们养成了某些习惯，任何人都可以非常高效。习惯在我们的生活中起着重要的作用。大多数成功人士都有一套多年养成的共同习惯。
+
+[The 8 Habits of Highly Effective Developers](https://medium.com/front-end-weekly/the-8-habits-of-highly-effective-developers-cf86e1eb5598)
+
 ## 2020-06-12
 现在 safari和Firefox(version 78)都支持伪类`:is()`和`:where()`了，快来看看他们都有什么特别的地方吧 👇
 
