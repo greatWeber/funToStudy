@@ -4,6 +4,14 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-06-17
+从戳气球问题中学习动态规划（建议看一下）。 👇
+[经典动态规划：戳气球问题 ](https://mp.weixin.qq.com/s/WkjVO1jlBJpghM6Usseg7A)
+
+## 2020-06-16
+javascript 一直都是单线程的，但自从 web worker的出现，开始让javascript在浏览器中实现了多线程。 👇
+[Javascript 多线程编程​的前世今生 ](https://mp.weixin.qq.com/s/87C9GAFb0Y_i5iPbIL5Hzg)
+
 ## 2020-06-15
 css看起来十分的直接简单，但就像其他任何语言一样，CSS的细微差别可以使你的设计有天壤之别。下面的十条css技巧，可以给你获取到收益。 👇
 
