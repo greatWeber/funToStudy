@@ -4,6 +4,11 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-06-18
+我们为什么需要 ES modules ,模块系统给我们带来了什么好处。看下面的文章来理解一下吧 👇
+
+[Understanding ES Modules in JavaScript](https://blog.bitsrc.io/understanding-es-modules-in-javascript-a28fec420f73)
+
 ## 2020-06-17
 从戳气球问题中学习动态规划（建议看一下）。 👇
 [经典动态规划：戳气球问题 ](https://mp.weixin.qq.com/s/WkjVO1jlBJpghM6Usseg7A)
