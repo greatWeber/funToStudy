@@ -3,6 +3,10 @@
 <img src="https://w.wallhaven.cc/full/kw/wallhaven-kw6ro1.png" alt="banner" width="600px">
 
 > 每天收集和分享一篇文章 🍻
+## 2020-06-19
+Code Review 简称 CR ,通过代码评审 可以 保证代码的质量，但是如何高效的进行CR呢？ 看看阿里的专家是怎么回答的 👇
+
+[7 个建议让 Code Review 高效又高质 ](https://mp.weixin.qq.com/s/AejIOMNxsI_Ru5G0W8AeTg)
 
 ## 2020-06-18
 我们为什么需要 ES modules ,模块系统给我们带来了什么好处。看下面的文章来理解一下吧 👇
