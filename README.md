@@ -3,6 +3,11 @@
 <img src="https://w.wallhaven.cc/full/kw/wallhaven-kw6ro1.png" alt="banner" width="600px">
 
 > 每天收集和分享一篇文章 🍻
+## 2020-06-20
+快来学习一下动态规划啊，下面这篇文章将会非常详细的讲解 👇
+
+[动态规划详解（修订版）](https://mp.weixin.qq.com/s/Cw39C9MY9Wr2JlcvBQZMcA)
+
 ## 2020-06-19
 Code Review 简称 CR ,通过代码评审 可以 保证代码的质量，但是如何高效的进行CR呢？ 看看阿里的专家是怎么回答的 👇
 
