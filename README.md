@@ -5,7 +5,9 @@
 > 每天收集和分享一篇文章 🍻
 ## 2020-06-22
 Serverless 是如何产生的？当前有哪些落地场景？Serverless 的未来又将如何？本文分享阿里资深技术专家对 Serverless 的看法，回顾其发展历程，并对 Serverless 的发展趋势做出预测。👇
+
 [Serverless 的初心、现状和未来 ](https://mp.weixin.qq.com/s/MK1q5jp-Zhd0Auvt3bLeOA)
+
 ## 2020-06-20
 快来学习一下动态规划啊，下面这篇文章将会非常详细的讲解 👇
 
