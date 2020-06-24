@@ -3,6 +3,16 @@
 <img src="https://w.wallhaven.cc/full/kw/wallhaven-kw6ro1.png" alt="banner" width="600px">
 
 > 每天收集和分享一篇文章 🍻
+## 2020-06-24
+你是不是觉得chrome很耗内存，其实有可能是插件开太多了，下文研究了2020年 前100排名的插件对页面性能的影响  👇
+
+[2020 Chrome Extension Performance Report](https://www.debugbear.com/blog/2020-chrome-extension-performance-report)
+
+## 2020-06-23
+spaceX最近那么火，估计大家都了解过了，现在它家的火箭Crew Dragon 的显示屏内容是用javascript来驱动的 😍
+
+[SpaceX’s Crew Dragon Touchscreen is powered by JavaScript](https://medium.com/javascript-in-plain-english/spacexs-crew-dragon-touchscreen-is-powered-by-javascript-cbc5a6781570)
+
 ## 2020-06-22
 Serverless 是如何产生的？当前有哪些落地场景？Serverless 的未来又将如何？本文分享阿里资深技术专家对 Serverless 的看法，回顾其发展历程，并对 Serverless 的发展趋势做出预测。👇
 
