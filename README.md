@@ -3,6 +3,12 @@
 <img src="https://w.wallhaven.cc/full/kw/wallhaven-kw6ro1.png" alt="banner" width="600px">
 
 > 每天收集和分享一篇文章 🍻
+## 2020-06-25
+首先祝大家端午节快乐！😍
+Typescript 弥补了js作为动态语言的一些不足，但很多高级的特性却不怎么好理解，比如下文介绍的 `泛型`。👇
+
+[你不知道的 TypeScript 泛型（万字长文，建议收藏）](https://mp.weixin.qq.com/s/iU42l3bIVGlZGnWs1DYNcg)
+
 ## 2020-06-24
 你是不是觉得chrome很耗内存，其实有可能是插件开太多了，下文研究了2020年 前100排名的插件对页面性能的影响  👇
 
