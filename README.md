@@ -3,6 +3,11 @@
 <img src="https://w.wallhaven.cc/full/kw/wallhaven-kw6ro1.png" alt="banner" width="600px">
 
 > 每天收集和分享一篇文章 🍻
+## 2020-06-27
+可能你写过tree组件，可能你一直用的都是第三方的，你有没有想过怎样才能写出高性能的tree组件呢，下文或许可以给你一些思路。👇
+
+[淘系前端教你写高性能的Tree组件 ](https://mp.weixin.qq.com/s/PK5gsX0sHiB3WmuRoyRzmQ)
+
 ## 2020-06-25
 首先祝大家端午节快乐！😍
 Typescript 弥补了js作为动态语言的一些不足，但很多高级的特性却不怎么好理解，比如下文介绍的 `泛型`。👇
