@@ -3,6 +3,12 @@
 <img src="https://w.wallhaven.cc/full/kw/wallhaven-kw6ro1.png" alt="banner" width="600px">
 
 > 每天收集和分享一篇文章 🍻
+
+## 2020-06-28
+TypeScript4.0 版本就要发布了，看看它有哪些改变吧！👇
+
+[What's coming in TypeScript 4?](https://httptoolkit.tech/blog/whats-coming-in-typescript-4)
+
 ## 2020-06-27
 可能你写过tree组件，可能你一直用的都是第三方的，你有没有想过怎样才能写出高性能的tree组件呢，下文或许可以给你一些思路。👇
 
