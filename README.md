@@ -4,6 +4,11 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-07-03
+如何写出简单而优雅的代码，提高编程价值？下文 Eric Elliott 大神将告诉你秘诀! 👇
+
+[The Secret of Simple Code](https://medium.com/javascript-scene/the-secret-of-simple-code-a2cacd8004dd)
+
 ## 2020-07-02
 当在浏览器输入URL后按回车，浏览器内部到底发生了什么呢？ 看完下文，你将有所收获! 👇
 
