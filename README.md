@@ -4,6 +4,11 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-07-04
+现在的css添加了越来越多的新特性，但是有没有想过，当sass遇到css类似的新特性时，该怎么处理？ 下文值得一看! 👇
+
+[When Sass and New CSS Features Collide ](https://css-tricks.com/when-sass-and-new-css-features-collide/?utm_source=CSS-Weekly&utm_campaign=Issue-417&utm_medium=web)
+
 ## 2020-07-03
 如何写出简单而优雅的代码，提高编程价值？下文 Eric Elliott 大神将告诉你秘诀! 👇
 
