@@ -4,6 +4,12 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-07-07
+如何在vue项目中更优雅的使用localStorage?可能我们大多数场景都是用vuex管理状态的，但或许
+有些情况下会用到localStorage配合vue的响应式数据。 👇
+
+[How to Make localStorage Reactive in Vue](https://css-tricks.com/how-to-make-localstorage-reactive-in-vue/)
+
 ## 2020-07-06
 chrome的v8内核出了新版本v8.4, 来看看做了哪些优化和改进吧! 👇
 
