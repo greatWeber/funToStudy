@@ -4,6 +4,11 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-07-08
+进来了解一下支付宝小程序架构的演变进程吧，mark!  👇
+
+[揭秘：支付宝小程序 V8 Worker 技术演进 ](https://mp.weixin.qq.com/s/Z05WqfauFqhdqXgH0QmZfw)
+
 ## 2020-07-07
 如何在vue项目中更优雅的使用localStorage?可能我们大多数场景都是用vuex管理状态的，但或许
 有些情况下会用到localStorage配合vue的响应式数据。 👇
