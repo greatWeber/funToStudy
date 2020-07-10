@@ -4,6 +4,13 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-07-10
+chrome出来一个新功能(css overview)，可以查看网页中css的各种统计，包括颜色，字体等 👇
+
+<img src="https://greatweber.github.io/funToStudy/material/2020-07/2020-07-10.png" alt="banner" width="600px">
+
+[New in Chrome: CSS Overview ](https://css-tricks.com/new-in-chrome-css-overview/)
+
 ## 2020-07-09
 介绍几种常见的`Git`分支模式，快来对号入座，看看你用的是哪种模式!  👇
 
