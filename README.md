@@ -4,6 +4,11 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-07-14
+2020年`top10`的`vscode`插件👇
+
+[10 Top Visual Studio Code Extensions in 2020](https://blog.bitsrc.io/top-10-visual-studio-extensions-in-2020-857ea6d692dd)
+
 ## 2020-07-13
 `Temporal`是这几年来新出的一个健壮的，现代化的api,用于处理时间，日期和时间戳。虽然现在的浏览器都还没有支持，只能使用polyfill。👇
 
