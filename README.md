@@ -4,6 +4,11 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-07-15
+随着越来越多的系统支持`dark Mode`, 也是时候让我们的网站支持暗黑模式了 👇
+
+[A Complete Guide to Dark Mode on the Web ](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)
+
 ## 2020-07-14
 2020年`top10`的`vscode`插件👇
 
