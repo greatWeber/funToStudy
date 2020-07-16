@@ -3,6 +3,10 @@
 <img src="https://w.wallhaven.cc/full/kw/wallhaven-kw6ro1.png" alt="banner" width="600px">
 
 > 每天收集和分享一篇文章 🍻
+## 2020-07-16
+前端面试中，不免会被问到浏览器缓存的问题，下面的文章正好整理了相关的知识点，，可以mark一下  👇
+
+[彻底弄懂浏览器缓存策略](https://mp.weixin.qq.com/s/0pI0F6c-BSLiGdLetQ5qNQ)
 
 ## 2020-07-15
 随着越来越多的系统支持`dark Mode`, 也是时候让我们的网站支持暗黑模式了 👇
