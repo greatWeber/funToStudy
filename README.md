@@ -3,6 +3,17 @@
 <img src="https://w.wallhaven.cc/full/kw/wallhaven-kw6ro1.png" alt="banner" width="600px">
 
 > 每天收集和分享一篇文章 🍻
+
+## 2020-07-18
+正则是一个非常强大的工具，但是它的写法真的经常让人忘记，这里安利一个js
+插件，可以使用对象链式的操作来写正则表达式。 👇
+
+[Super Expressive](https://github.com/francisrstokes/super-expressive)
+## 2020-07-17
+前端处理word文档，建议mark  👇
+
+[在前端如何玩转 Word 文档](https://mp.weixin.qq.com/s/1ztZLSCEhBpBuTEdqJSS2w)
+
 ## 2020-07-16
 前端面试中，不免会被问到浏览器缓存的问题，下面的文章正好整理了相关的知识点，，可以mark一下  👇
 
