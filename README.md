@@ -4,6 +4,11 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-07-22
+为什么css是这样的，下文描述了css的发展进程和演变。👇
+
+[Ask an expert: Why is CSS . . . the way it is?](https://increment.com/frontend/ask-an-expert-why-is-css-the-way-it-is/?utm_source=CSS-Weekly&utm_campaign=Issue-419&utm_medium=web)
+
 ## 2020-07-21
 flutter和reactNative和原生的性能对比如何？下文从FPS,CPU,Memory,GPU等方面进行对比。👇
 
