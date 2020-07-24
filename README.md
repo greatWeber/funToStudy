@@ -9,7 +9,7 @@
 
 [Testing Software: What is TDD?](https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c)
 
-[备份](https://greatweber.github.io/funToStudy/backups/2020-07/2020-07-24.md)
+[备份](https://github.com/greatWeber/funToStudy/blob/master/backups/2020-07/2020-07-24.md)
 
 
 ## 2020-07-23
