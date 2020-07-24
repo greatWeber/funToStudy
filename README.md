@@ -4,6 +4,14 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-07-24
+什么是TDD(测试驱动开发)？Eric Elliott 大佬从零简述TDD。👇
+
+[Testing Software: What is TDD?](https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c)
+
+[备份](https://greatweber.github.io/funToStudy/backups/2020-07/2020-07-24.md)
+
+
 ## 2020-07-23
 如何编写健壮的代码呢？下文阿里的专家给出了自己的意见(虽然用java的示例，但是思想是通用的)👇
 
