@@ -4,7 +4,12 @@
 
 > 每天收集和分享一篇文章 🍻
 
-## 2020-07-24
+## 2020-07-25 (资讯)
+Bootstrap迎来了5.0.0 Alpha版本。放弃了jQuery和IE浏览器的支持！👇
+
+[First UI Kit for the latest Twitter’s Bootstrap 5](https://blog.bitsrc.io/first-ui-kit-for-the-latest-twitters-bootstrap-5-c02c4a7aca9d)
+
+## 2020-07-24 (技术)
 什么是TDD(测试驱动开发)？Eric Elliott 大佬从零简述TDD。👇
 
 [Testing Software: What is TDD?](https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c)
