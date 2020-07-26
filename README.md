@@ -4,6 +4,12 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-07-26(技术)
+`twoSum`问题相信大家都听过： 给出一个数组和target值，找出和等于target值得两个元素的索引(或者返回值)。类似的还有`threeSum`,`fourSum`。解决这些题目有什么套路呢?
+下文将给出答案 👇
+
+[一个函数秒杀 2Sum 3Sum 4Sum 问题 ](https://mp.weixin.qq.com/s/s5njfwzr7Y9hhSOZWDTQiA)
+
 ## 2020-07-25 (资讯)
 Bootstrap迎来了5.0.0 Alpha版本。放弃了jQuery和IE浏览器的支持！👇
 
