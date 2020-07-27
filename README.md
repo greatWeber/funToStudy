@@ -4,6 +4,13 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-07-27(技术)
+有没有了解过一个操作系统都运用了哪些算法呢？🤔
+
+[换人！这些算法都不会还学什么操作系统](https://mp.weixin.qq.com/s/HEGmVPIVf74Of52kawXWKQ)
+
+[备份](https://github.com/greatWeber/funToStudy/blob/master/backups/2020-07/2020-07-27.md)
+
 ## 2020-07-26(技术)
 `twoSum`问题相信大家都听过： 给出一个数组和target值，找出和等于target值得两个元素的索引(或者返回值)。类似的还有`threeSum`,`fourSum`。解决这些题目有什么套路呢?
 下文将给出答案 👇
