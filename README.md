@@ -4,6 +4,13 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-07-28(技术)
+以前网站都是使用`cookies`来保存和验证用户信息，现在则是更多的使用`tokens`，为什么不一起使用呢，混合搭配的效果更好哦 😆
+
+[Why Using Tokens and Cookies Together is Better for Web App Security](https://blog.bitsrc.io/why-using-tokens-and-cookies-together-is-better-for-web-apps-9d205b7c1961)
+
+[备份](https://github.com/greatWeber/funToStudy/blob/master/backups/2020-07/2020-07-28.md)
+
 ## 2020-07-27(技术)
 有没有了解过一个操作系统都运用了哪些算法呢？🤔
 
