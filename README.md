@@ -4,6 +4,11 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-07-29(技术)
+还没有了解闭包是什么的过来看看这篇文章吧 💪
+
+[a closure](https://whatthefork.is/closure#step-2-wrapping-code-in-a-function-call)
+
 ## 2020-07-28(技术)
 以前网站都是使用`cookies`来保存和验证用户信息，现在则是更多的使用`tokens`，为什么不一起使用呢，混合搭配的效果更好哦 😆
 
