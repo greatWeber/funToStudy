@@ -4,6 +4,11 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-07-30(教程)
+如何在`react native`中使用路由跳转页面？🤔
+
+[How to Set Up and Use Navigators in React Native](https://blog.jscrambler.com/how-to-set-up-and-use-navigators-in-react-native/)
+
 ## 2020-07-29(技术)
 还没有了解闭包是什么的过来看看这篇文章吧 💪
 
