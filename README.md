@@ -1,9 +1,23 @@
-# 收集分享好玩，有趣的文章
+# 收集分享好玩，有趣的文章(学习向，侵权删)
 
 <img src="https://w.wallhaven.cc/full/kw/wallhaven-kw6ro1.png" alt="banner" width="600px">
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-08-06(技术)
+下文比较全面简单介绍了web安全，有兴趣可以读一下 🙂
+
+[一文读懂 Web 安全](https://mp.weixin.qq.com/s/R8a0ByDBQ8TXqRHuUYPJNA)
+
+## 2020-08-05(技术)
+又是一篇值得收藏的关于`Typescript`的文章，收藏就完事了 💪
+
+[上帝视角看 TypeScript](https://mp.weixin.qq.com/s/Uaueujnalckh_ARsg-VFew)
+
+## 2020-08-04(技术)
+单页面应用app的5中不同的缓存策略，你可以尝试在项目里运用它们。👇
+
+[5 Service Worker Caching Strategies for Your Next PWA App](https://blog.bitsrc.io/5-service-worker-caching-strategies-for-your-next-pwa-app-58539f156f52)
 ## 2020-08-03(技术)
 `typescript`中的父子类型关系，逆变？协变？ 没听过，看看是啥东西 🤔
 
