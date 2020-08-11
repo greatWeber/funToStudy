@@ -1,8 +1,13 @@
-# 收集分享好玩，有趣的文章(学习向，侵权删)
+# 收集好玩，有趣的文章(学习向，侵权删)
 
 <img src="https://w.wallhaven.cc/full/kw/wallhaven-kw6ro1.png" alt="banner" width="600px">
 
 > 每天收集和分享一篇文章 🍻
+
+## 2020-08-11(技术)
+计算机网络知识，你要的http知识点这里都有，快来收藏吧 💪
+
+[连肝7个晚上，总结了计算机网络的知识点！（共66条）](https://mp.weixin.qq.com/s/YHrh6voXP1V9oGEoP3V8hg) 
 
 ## 2020-08-10（历史)
 javascript有哪些模块规范，相信大家都了解过了，但是它的模块化历史进程，有多少人了解过呢 🤔
