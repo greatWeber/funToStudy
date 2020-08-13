@@ -4,6 +4,11 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-08-13(规范)
+来来来，看看大厂是如何规范git commit的 👇
+
+[如何规范你的Git commit？](https://mp.weixin.qq.com/s/vzgST0ko-HZVkFFiSZ2xGg)
+
 ## 2020-08-12(算法)
 这是个有趣的换酒算法问题，有兴趣可以看一下 👇
 
