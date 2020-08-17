@@ -4,6 +4,17 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-08-17(算法)
+验证二叉搜索树：给定一个二叉树，判断其是否是一个有效的二叉搜索树。👇
+
+[验证二叉搜索树](https://mp.weixin.qq.com/s/hYhotXe8wqybPVKJDHymzA)
+
+
+## 2020-08-15(技术)
+手写`webSocket`协议，让你更加了解websocket的原理 💪
+
+[深度：手写一个WebSocket协议 [7000字]](https://mp.weixin.qq.com/s/N_Z8379xLnC4H3v1nEdfZg)
+
 ## 2020-08-13(规范)
 来来来，看看大厂是如何规范git commit的 👇
 
