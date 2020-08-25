@@ -4,7 +4,12 @@
 
 > 每天收集和分享一篇文章 🍻
 
-## 2020-08-23(技术)
+## 2020-08-25(算法)
+一道关于二叉树的算法题 👇
+
+[算法题400：二叉树的锯齿形层次遍历](https://mp.weixin.qq.com/s/erfXjW_HO6oIKnoQJk1VDw)
+
+## 2020-08-24(技术)
 什么是`跳表`？没听说过，来看看吧 👇
 
 [漫画：什么是 “跳表” ？](https://mp.weixin.qq.com/s/Ok0laJMn4_OzL-LxPTHawQ)
