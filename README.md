@@ -4,6 +4,11 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-08-26(技术)
+PWA 应用现在也不少见了，但还是很多人还在观望中，担心安全和性能问题，下文给出了PWA有价值的5个功能 👇
+
+[5 Reasons to Choose PWA for Your Web and Mobile Apps](https://blog.bitsrc.io/5-reasons-to-choose-pwa-for-your-web-and-mobile-apps-515c6d0e784d)
+
 ## 2020-08-25(算法)
 一道关于二叉树的算法题 👇
 
