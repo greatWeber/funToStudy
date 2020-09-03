@@ -4,10 +4,15 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-09-03
+最近，微软新出了一个名为`Blazor`的框架，允许开发者使用C#来开发web网站，那么它跟`JavaScript`相比，有什么优势呢？
+
+[Blazor VS JavaScript](https://blog.bitsrc.io/frontend-dev-blazor-vs-javascript-35f27e0fd618)
+
 ## 2020-09-01(技术)
 你可了解过`CDN`的原理不？👇
 
-[CDN加速原理](https://mp.weixin.qq.com/s/Df9kYNquukRCwwocgRblcQ)
+[CDN加速原理](https://mp.weixin.qq.com/s/Df9kYNquukRCwwocgRblcQ) 
 
 ## 2020-08-31(算法)
 算法：如何在二叉树的每一行中找到最大的值。👇
