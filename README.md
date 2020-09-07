@@ -4,6 +4,11 @@
 
 > 每天收集和分享一篇文章 🍻
 
+## 2020-09-07(技术)
+下文介绍了`MutationObserver`的基本用法，和一些使用场景，感兴趣的看一下  👇
+
+[是谁动了我的 DOM？](https://mp.weixin.qq.com/s/a2tuqQOmkvtHysOuBXmMdg)
+
 ## 2020-09-04(技术)
 介绍常用的设计模式，来封装代码 👇
 
