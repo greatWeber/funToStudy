@@ -3,6 +3,10 @@
 <img src="https://w.wallhaven.cc/full/kw/wallhaven-kw6ro1.png" alt="banner" width="600px">
 
 > 每天收集和分享一篇文章 🍻
+## 2020-09-09(技术)
+来看看黑科技，边下载边解压zip文件 👇
+
+[ZIP 也能边下载边解压？流式解压技术揭秘！](https://mp.weixin.qq.com/s/NB12KQOHjso9wH8Ju1ueSA)
 
 ## 2020-09-07(技术)
 下文介绍了`MutationObserver`的基本用法，和一些使用场景，感兴趣的看一下  👇
