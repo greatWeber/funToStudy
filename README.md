@@ -3,6 +3,16 @@
 <img src="https://w.wallhaven.cc/full/kw/wallhaven-kw6ro1.png" alt="banner" width="600px">
 
 > 每天收集和分享一篇文章 🍻
+## 2020-09-16(算法)
+用双指针解 旋转链表 👇
+
+[双指针解旋转链表](https://mp.weixin.qq.com/s/l1rmCxwi6AXK292OnHfGJA)
+
+## 2020-09-12(资讯)
+华为 `鸿蒙2.0`问世，来支持一波国产系统  💪
+
+[鸿蒙2.0正式开源，华为重磅押注开发者生态](https://mp.weixin.qq.com/s/6KPuPD5Rxsl00OO9iPB5Ww) 
+
 ## 2020-09-09(技术)
 来看看黑科技，边下载边解压zip文件 👇
 
